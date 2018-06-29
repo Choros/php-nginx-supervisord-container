@@ -1,4 +1,4 @@
-FROM quay.io/choros/php-docker:7.2.7
+FROM quay.io/choros/php-docker:7.1.19
 
 RUN set -xe \
 	&& apk add --no-cache \
